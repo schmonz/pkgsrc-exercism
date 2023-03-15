@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: patch-cmd_version.go,v 1.1 2023/03/15 20:22:51 schmonz Exp $
 
 Don't let the program try to update itself.
 

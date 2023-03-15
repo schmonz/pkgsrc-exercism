@@ -1,4 +1,4 @@
-# $NetBSD$
+# $NetBSD: Makefile,v 1.1 2023/03/15 20:22:51 schmonz Exp $
 
 DISTNAME=		cli-3.1.0
 PKGNAME=		${DISTNAME:S/^cli-/exercism-/}

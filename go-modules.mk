@@ -1,4 +1,4 @@
-# $NetBSD$
+# $NetBSD: go-modules.mk,v 1.1 2023/03/15 20:22:51 schmonz Exp $
 
 GO_MODULE_FILES+=	github.com/blang/semver/@v/v3.5.1+incompatible.mod
 GO_MODULE_FILES+=	github.com/blang/semver/@v/v3.5.1+incompatible.zip
